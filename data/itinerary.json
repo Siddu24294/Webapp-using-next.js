@@ -6,7 +6,8 @@
         "arrivalTime": "09:20",
         "date": "Jul 2",
         "origin": "LHR",
-        "destination": "OSL"
+        "destination": "OSL",
+        "confirmation": "314112211"
       },
       {
         "departureTime": "18:45",
@@ -34,8 +35,7 @@
         "time": "19:00",
         "date": "Jul 4",
         "name": "Palace Grill",
-        "address": "Solligata 2, 0254 Oslo, Norway",
-        "confirmation": "99900022"
+        "address": "Solligata 2, 0254 Oslo, Norway"
       }
     ]
   }

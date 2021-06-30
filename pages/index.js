@@ -12,8 +12,11 @@ export default function Home() {
             </Head>
 
             <main>
-                <h1 className="title">
-                    Second <a href="https://nextjs.org">Try!</a>
+                <div>
+                    <h1><a href="#">Travel app built with next.js</a> </h1>
+                </div>
+                <h1>
+                    <font color="green">Second Try!</font>
                 </h1>
                 <Itinerary itinerary={itinerary}/>
             </main>
