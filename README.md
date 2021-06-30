@@ -1,3 +1,7 @@
+#########################################
+#   NOTE  : the commits are messed up.  #
+#########################################
+
 This is a web app that will help u on your travell by keeping a ract of your flight bookings , accommodation and tourage.
 This was my 1st time building a web app.
 Having only developed in python it wwas quite challenging at the beggining.
