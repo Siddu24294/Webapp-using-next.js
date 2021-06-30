@@ -1,6 +1,12 @@
 #########################################
 #   NOTE  : the commits are messed up.  #
 #########################################
+use:
+
+  * npm run dev *
+
+to run the project
+
 
 This is a web app that will help u on your travell by keeping a ract of your flight bookings , accommodation and tourage.
 This was my 1st time building a web app.
