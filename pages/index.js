@@ -3,7 +3,6 @@ import Itinerary from "../components/Itinerary";
 import {itinerary} from "../data/itinerary.json"
 
 export default function Home() {
-    console.log(itinerary);
     return (
         <div className="container">
             <Head>
