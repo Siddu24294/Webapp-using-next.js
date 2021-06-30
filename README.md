@@ -1,7 +1,10 @@
 #########################################
 #   NOTE  : the commits are messed up.  #
 #########################################
-use:npm run dev 
+
+
+use:
+  [npm run dev ]
 
 to run the project
 
